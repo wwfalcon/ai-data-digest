@@ -4,10 +4,10 @@
 
 ## 订阅地址
 
-- **X · AI 热点**：[https://wwfalcon.github.io/ai-data-digest/x-ai.xml](https://wwfalcon.github.io/ai-data-digest/x-ai.xml)（今日 52 条）
-- **X · 数据管理热点**：[https://wwfalcon.github.io/ai-data-digest/x-data.xml](https://wwfalcon.github.io/ai-data-digest/x-data.xml)（今日 55 条）
-- **精选订阅摘要**：[https://wwfalcon.github.io/ai-data-digest/digest.xml](https://wwfalcon.github.io/ai-data-digest/digest.xml)（今日新增 40 条，保留约 30 天）
+- **X · AI 热点**：[https://wwfalcon.github.io/ai-data-digest/x-ai.xml](https://wwfalcon.github.io/ai-data-digest/x-ai.xml)（今日 35 条）
+- **X · 数据管理热点**：[https://wwfalcon.github.io/ai-data-digest/x-data.xml](https://wwfalcon.github.io/ai-data-digest/x-data.xml)（今日 39 条）
+- **精选订阅摘要**：[https://wwfalcon.github.io/ai-data-digest/digest.xml](https://wwfalcon.github.io/ai-data-digest/digest.xml)（今日新增 0 条，保留约 30 天）
 
-最近发布日期：2026-10-14
+最近发布日期：2026-10-15
 
 源码与说明见仓库 README。
