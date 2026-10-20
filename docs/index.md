@@ -4,12 +4,12 @@
 
 ## 订阅地址
 
-- **X · AI 热点**：[https://wwfalcon.github.io/ai-data-digest/x-ai.xml](https://wwfalcon.github.io/ai-data-digest/x-ai.xml)（今日 39 条）
-- **X · 数据管理热点**：[https://wwfalcon.github.io/ai-data-digest/x-data.xml](https://wwfalcon.github.io/ai-data-digest/x-data.xml)（今日 43 条）
-- **精选订阅摘要**：[https://wwfalcon.github.io/ai-data-digest/digest.xml](https://wwfalcon.github.io/ai-data-digest/digest.xml)（今日新增 39 条，保留约 30 天）
-- **微信公众号 · AI**：[https://wwfalcon.github.io/ai-data-digest/wechat-ai.xml](https://wwfalcon.github.io/ai-data-digest/wechat-ai.xml)（近期 74 条）
+- **X · AI 热点**：[https://wwfalcon.github.io/ai-data-digest/x-ai.xml](https://wwfalcon.github.io/ai-data-digest/x-ai.xml)（今日 36 条）
+- **X · 数据管理热点**：[https://wwfalcon.github.io/ai-data-digest/x-data.xml](https://wwfalcon.github.io/ai-data-digest/x-data.xml)（今日 39 条）
+- **精选订阅摘要**：[https://wwfalcon.github.io/ai-data-digest/digest.xml](https://wwfalcon.github.io/ai-data-digest/digest.xml)（今日新增 30 条，保留约 30 天）
+- **微信公众号 · AI**：[https://wwfalcon.github.io/ai-data-digest/wechat-ai.xml](https://wwfalcon.github.io/ai-data-digest/wechat-ai.xml)（近期 79 条）
 - **微信公众号 · 数据管理**：[https://wwfalcon.github.io/ai-data-digest/wechat-data.xml](https://wwfalcon.github.io/ai-data-digest/wechat-data.xml)（近期 5 条）
 
-最近发布日期：2026-10-20
+最近发布日期：2026-10-21
 
 源码与说明见仓库 README。
